@@ -10,7 +10,6 @@ API REST construida con Node.js, Express y MongoDB para gestionar inventario, au
 ## Instalación
 
 ```bash
-cd server
 npm install
 ```
 
